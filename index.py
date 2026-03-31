@@ -1,7 +1,8 @@
 import random
 import time
 
-print('===Math Tutor===')
+print('===Math Tutor for Multiplication===')
+print("A x B")
 num_questions = int(input("How many random practice questions would you like? "))
 x = int(input('How low would you like the number be? '))
 y = int(input('How high would you like the number be? '))
